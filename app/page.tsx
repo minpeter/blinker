@@ -44,38 +44,20 @@ export default function Home() {
         />
 
         <LinkBox
-          href="/blink"
-          title="Blink"
+          href="https://tmpf.me"
+          title="tempfiles"
           description="Blink towards a domain"
         />
 
         <LinkBox
-          href="/blink"
-          title="Blink"
+          href="https://github.com/minpeter"
+          title="Github"
           description="Blink towards a domain"
         />
 
         <LinkBox
-          href="https://minpeter.github.io"
-          title="Blog"
-          description="Blink towards a domain"
-        />
-
-        <LinkBox
-          href="https://ip.minpeter.tech"
-          title="ipLogger"
-          description="Blink towards a domain"
-        />
-
-        <LinkBox
-          href="/blink"
-          title="Blink"
-          description="Blink towards a domain"
-        />
-
-        <LinkBox
-          href="/blink"
-          title="Blink"
+          href="https://instagram.com/minpeter2"
+          title="instagram"
           description="Blink towards a domain"
         />
       </div>
