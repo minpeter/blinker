@@ -38,6 +38,12 @@ export default function Home() {
         />
 
         <LinkBox
+          href="https://blog.minpeter.tech"
+          title="Blog - mdx"
+          description="mdx test blog"
+        />
+
+        <LinkBox
           href="https://ip.minpeter.tech"
           title="ipLogger"
           description="Blink towards a domain"
